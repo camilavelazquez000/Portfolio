@@ -28,7 +28,7 @@ $pg="inicio";
         <div class="row text-center mx-0 px-0">
             <div class="col-12 px-5">
                 <p class="p-1">
-                    Bienvenid@ a mi sitio web sobre docencia en sistemas.
+                    Bienvenid@ a mi sitio web.
                 </p>
             </div>
         </div>
